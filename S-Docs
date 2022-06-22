@@ -1,0 +1,36 @@
+<!-- ******************** START RELATED LIST SECTION UNIQUEID:662********************--><br />
+### RELATED LIST No: 662 ###</strong></span></span><strong>
+<style type="text/css">table.table662 {border:solid black 1px; border-collapse:collapse; border-spacing:0px;font-family:Arial Unicode MS,sans-serif; font-size:10pt; width:100% }
+.table662header {text-align:center;font-weight:bold;color:#000000;background-color:#F9AC08;}
+.table662footer {text-align:right;font-weight:bold;border:solid black 1px; height: 30px}
+.table662RowEven{background-color:#FFD67E;}
+.table662RowOdd{background-color:#FFF0CF;}
+.table662col0{border:solid white 1px;text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+.table662col1{border:solid white 1px;text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+.table662col2{border:solid white 1px;text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+</style>
+</strong> </strong>
+<table class="table662">
+	<tbody>
+		<tr>
+			<th class="table662header"><strong><strong><span style="font-family:arial unicode ms,sans-serif;"><span style="font-size:10pt;"><strong>Date</strong></span></span></strong></strong></th>
+			<th class="table662header"><strong><strong><span style="font-family:arial unicode ms,sans-serif;"><span style="font-size:10pt;"><strong>Donations</strong></span></span></strong></strong></th>
+			<th class="table662header"><strong><strong><span style="font-family:arial unicode ms,sans-serif;"><span style="font-size:10pt;"><strong>Amount</strong></span></span></strong></strong></th>
+		</tr>
+	</tbody>
+	<tbody style="page-break-inside: avoid !important; page-break-before: auto !important;"><!--{{!
+<lineitems>
+<class>table662</class>
+<listname>opportunities</listname>
+<column format-date="dd MMM yyyy" >closedate</column>
+<column>Campaign.name</column>
+<column prefix="$" >amount</column>
+<where>closedate = LAST_FISCAL_YEAR and stagename in ('Posted','Closed Won')</where>
+<orderby>closedate Asc</orderby>
+</lineitems>
+      }}-->
+	</tbody>
+</table>
+<strong> <strong> </strong> </strong>
+
+<div style="text-align: right;"><span style="font-family:arial unicode ms,sans-serif;"><span style="font-size:10pt;"><!-- ******************** END RELATED LIST SECTION UNIQUEID:662********************-->
