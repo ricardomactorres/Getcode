@@ -1,0 +1,62 @@
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">{{!DocumentDate}}</span></span></p>
+
+<p><span style="line-height:1;"><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">{{!Account.npo02__formal_greeting__c}}</span></span><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;"><br />
+{{!Account.billingstreet}}</span></span></span><br />
+<span style="line-height:1;"><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">{{!Account.billingcity}}, {{!Account.billingstatecode}} {{!Account.billingpostalcode}}</span></span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;"><br />
+Dear {{!Account.first_name__c}},</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">On behalf of the many patients we serve, thank you for your generous donation to the Icla da Silva Foundation.&nbsp;</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">Your support will provide logistical, emotional, and critical financial support to remove barriers to treatment for patients with diseases whose only cure is a bone marrow or cord blood transplant.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">For those of us blessed with good health, it is difficult to imagine the value that hope can bring to someone whose life is in the hands of others.&nbsp; Thank you for contributing to the dream that one-day cancer and blood disorders will be a thing of the past.&nbsp; In the meantime, I want you to know that if it weren’t for compassionate and generous people like you, I don’t know those patients and family could cope with the critical challenges of treatment. So, thank you for your generous support.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;"></span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">You are a ray of light to those facing dark times.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;">Warm regards,</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;"><br />
+Airam da Silva, M.P.H.</span></span><span style="font-family:times new roman,times,serif;"><span style="font-size:12px;"><br />
+President</span></span></p>
+<b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><!-- ******************** START RELATED LIST SECTION UNIQUEID:193********************--><br />
+### RELATED LIST No: 193 ###
+<style type="text/css">table.table193 {border:solid black 1px; border-collapse:collapse; border-spacing:0px;font-family:times new roman; font-size:12pt; width:100% }
+.table193header {text-align:center;font-weight:bold;color:#FFFFFF;background-color:#000000;}
+.table193footer {text-align:right;font-weight:bold;border:solid black 1px; height: 30px}
+.table193RowEven{background-color:#E3E3E3;}
+.table193RowOdd{background-color:#dadada;}
+.table193col0{border:solid white 1px;text-align:center;font-weight:normal;font-size:12pt;font-family:times new roman;}
+.table193col1{border:solid white 1px;text-align:center;font-weight:normal;font-size:12pt;font-family:times new roman;}
+.table193col2{border:solid white 1px;text-align:center;font-weight:normal;font-size:12pt;font-family:times new roman;}
+.table193col3{border:solid white 1px;text-align:center;font-weight:normal;font-size:12pt;font-family:times new roman;}
+</style>
+</b></b></b>
+<table class="table193">
+	<tbody>
+		<tr>
+			<th class="table193header"><span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba">Date</b></b></b></span></span></th>
+			<th class="table193header"><span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba">Donation</b></b></b></span></span></th>
+			<th class="table193header"><span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba">Tax Deductible</b></b></b></span></span></th>
+			<th class="table193header"><span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba">Amount</b></b></b></span></span></th>
+		</tr>
+	</tbody>
+	<tbody style="page-break-inside: avoid !important; page-break-before: auto !important;"><!--{{!
+<lineitems>
+<class>table193</class>
+<listname>opportunities</listname>
+<column format-date="dd MMM yyyy" >closedate</column>
+<column>Campaign.name</column>
+<column prefix="$" >tax_deductible_amount__c</column>
+<column prefix="$" >amount</column>
+<where>closedate = THIS_FISCAL_YEAR and stagename in ('POSTED', 'CLOSED WON') and Acknowledged_Date__c = null</where>
+</lineitems>
+}}-->
+	</tbody>
+</table>
+<br />
+<span style="font-size:9px;"><span style="color:black;"><span style="font-family:times new roman,serif;">The Icla da Silva Foundation is a 501 (c)(3) non-profit organization, and your donation is tax deductible to the extent allowed by law.&nbsp; No goods or services were provided in exchange for your generous financial contribution.&nbsp; This letter serves as an official acknowledgement of your gift; please keep it as a receipt of your donation for tax purposes.&nbsp; Federal Tax ID #13-3677332.</span></span></span><br />
+<b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><b id="docs-internal-guid-3372c3a4-7fff-b29f-fdcf-096794d961ba"><!-- ******************** END RELATED LIST SECTION UNIQUEID:193********************--></b></b></b>
